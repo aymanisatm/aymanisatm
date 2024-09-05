@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @aymanisatm
-- 🧜‍♀️ Marine Enthusiast
-- 📫 DM for any inquiries: nuraimmatunnisahmustamin@gmail.com
+👋 Hi, I’m @aymanisatm
+🧜‍♀️ Marine Enthusiast
 
 <!---
 aymanisatm/aymanisatm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
